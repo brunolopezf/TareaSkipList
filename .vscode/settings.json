@@ -1,0 +1,13 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.pythonPath": "C:\\Users\\BrunoLopezF\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe",
+    "python.linting.enabled": true
+}
